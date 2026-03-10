@@ -1,0 +1,13 @@
+{
+  "name": "sidecar-agent",
+  "version": "0.1.0",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.19.2",
+    "ws": "^8.16.0",
+    "cors": "^2.8.5",
+    "dockerode": "^3.3.5",
+    "shelljs": "^0.8.5"
+  }
+}
+
